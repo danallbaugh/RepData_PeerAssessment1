@@ -126,4 +126,3 @@ plot(weekendsteps$interval, weekendsteps$steps, type = "l",
 mtext("Average number of steps taken", outer = TRUE)
 ```
 
-test
